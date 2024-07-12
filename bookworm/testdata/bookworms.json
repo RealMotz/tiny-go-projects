@@ -1,0 +1,53 @@
+[
+    {
+        "name": "Fadi",
+        "books": [
+            {
+                "author": "Margaret Atwood",
+                "title": "The Handmaid's Tale"
+            },
+            {
+                "author": "Sylvia Plath",
+                "title": "The Bell Jar"
+            }
+        ]
+    },
+    {
+        "name": "Peggy",
+        "books": [
+            {
+                "author": "Margaret Atwood",
+                "title": "Oryx and Crake"
+            },
+            {
+                "author": "Margaret Atwood",
+                "title": "The Handmaid's Tale"
+            },
+            {
+                "author": "Charlotte Brontë",
+                "title": "Jane Eyre"
+            }
+        ]
+    },
+    {
+        "name": "Carlos",
+        "books": [
+            {
+                "author": "Cal Newport",
+                "title": "So good they can't ignore you"
+            },
+            {
+                "author": "Cal Newport",
+                "title": "Deep Work"
+            },
+            {
+                "author": "Tiago Forte",
+                "title": "Building a Second Brain"
+            },
+            {
+                "author": "Greg Mckeown",
+                "title": "Essentialism"
+            }
+        ]
+    }
+]
